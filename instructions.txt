@@ -1,0 +1,19 @@
+These are the instructions to make a website for our Telescope Simulator app, which will be on the Play Store.
+
+This document will serve as a guide and reference to everything about the construction of the webpage.
+
+
+1. This website will be hosted on Github Pages.
+2. This website should have a modern feel with slight animations, not just plain HTML. 
+3. IT is up to the AI to decide which frameworks and tools to use.
+
+The main reference picture is @TelescopeSimulatorWebsiteMockup.png
+
+The website shall consist of two pages. First, the main page, which should lookk like the mockup above.
+    - Also, instead of the header background being just blue like in the mockup, we want the WebsiteBackground.jpg picture to be the background instead.
+
+The second page is a simple privacy policy page, which Google Play needs for its services. 
+
+On the mockup screenshot, the middle right shows a screenshot carousel for pictures of the app. The images for this carousel are found in the Screenshots folder.
+
+
